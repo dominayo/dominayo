@@ -108,5 +108,5 @@ Welcome to my page!
 - Always keep product thinking with responsibility.
 - Passionate Self-Studying, Fast Learner.
 
-![Current stats](https://github-readme-stats.vercel.app/api?username=dominayo&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)
+<!--![Current stats](https://github-readme-stats.vercel.app/api?username=dominayo&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominayo&theme=vue-dark)](https://github.com/dominayo)
